@@ -20,8 +20,6 @@ var locations = [];
   //           revenue: 25000,
   //           locationCount: 1};
 
-
-//code that was given with the assignment
 $(document).ready(function () {
 
   var il = new Region("IL", 5000, 12);
